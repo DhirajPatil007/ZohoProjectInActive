@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace ZohoAPIProjectsInActive.Model
+{
+    public partial class ZohoMissmatched31jul
+    {
+        public string UniqueId { get; set; }
+        public string DocNumber { get; set; }
+        public string NewDocNumber { get; set; }
+        public string NewDocNumber2 { get; set; }
+        public decimal? TotalAmt { get; set; }
+        public string VendorId { get; set; }
+        public string VendorName { get; set; }
+        public string TxnDate { get; set; }
+        public string TxnType { get; set; }
+        public decimal? QbAmount { get; set; }
+        public decimal? QbRunningBalance { get; set; }
+        public decimal? ZohoAmount { get; set; }
+        public decimal? ZohoRunningBalance { get; set; }
+        public decimal? LineDifference { get; set; }
+    }
+}
