@@ -24,10 +24,15 @@ namespace FretAPI.Controllers
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
-    
-      private static readonly string[] Empolyee = new[]
-    {
+
+        private static readonly string[] Empolyee = new[]
+      {
         "Aamod",  "Dhiraj", "Snehal", "Parija", "Harshala"
+    };
+    
+    private static readonly string[] Empolyee1 = new[]
+    {
+        "Aamod1",  "Dhiraj1", "Snehal1", "Parija1", "Harshala1"
     };
 
 

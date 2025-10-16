@@ -5983,19 +5983,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/dhiraj/.nuget/packages/": {}
+    "/Users/parija/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/ZohoAPIProjectsInActive.csproj",
+      "projectUniqueName": "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/ZohoAPIProjectsInActive.csproj",
       "projectName": "ZohoAPIProjectsInActive",
-      "projectPath": "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/ZohoAPIProjectsInActive.csproj",
-      "packagesPath": "/Users/dhiraj/.nuget/packages/",
-      "outputPath": "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/obj/",
+      "projectPath": "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/ZohoAPIProjectsInActive.csproj",
+      "packagesPath": "/Users/parija/.nuget/packages/",
+      "outputPath": "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dhiraj/.nuget/NuGet/NuGet.Config"
+        "/Users/parija/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6017,7 +6017,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -6085,40 +6085,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Data.SqlClient' 1.0.19269.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
-      "libraryId": "Microsoft.Data.SqlClient",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Data.SqlClient' 1.0.19269.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "libraryId": "Microsoft.Data.SqlClient",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
-      "libraryId": "System.Text.RegularExpressions",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }
