@@ -22,7 +22,7 @@ namespace FretAPI.Controllers
 
         private static readonly string[] Details = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Freezing1"
     };
 
         private static readonly string[] Empolyee = new[]
