@@ -31,9 +31,13 @@ namespace FretAPI.Controllers
     };
     
 
+    private static readonly string[] Empolyee1 = new[]
+
+
       private static readonly string[] Devbranch = new[]
+
     {
-        "Aamod",  "Dhiraj", "Snehal", "Parija", "Harshala"
+        "Aamod1",  "Dhiraj1", "Snehal1", "Parija1", "Harshala1"
     };
 
 

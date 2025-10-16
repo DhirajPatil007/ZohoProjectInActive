@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZohoAPIProjectsInActive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5d00d2fc7cc6616d185566425176166228d4e8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44a8e606a5d1a65a7b5d3f5bc776a8c47287a685")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZohoAPIProjectsInActive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZohoAPIProjectsInActive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

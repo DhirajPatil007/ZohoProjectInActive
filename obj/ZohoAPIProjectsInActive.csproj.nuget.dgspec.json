@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/ZohoAPIProjectsInActive.csproj": {}
+    "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/ZohoAPIProjectsInActive.csproj": {}
   },
   "projects": {
-    "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/ZohoAPIProjectsInActive.csproj": {
+    "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/ZohoAPIProjectsInActive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/ZohoAPIProjectsInActive.csproj",
+        "projectUniqueName": "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/ZohoAPIProjectsInActive.csproj",
         "projectName": "ZohoAPIProjectsInActive",
-        "projectPath": "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/ZohoAPIProjectsInActive.csproj",
-        "packagesPath": "/Users/dhiraj/.nuget/packages/",
-        "outputPath": "/Users/dhiraj/Documents/Projects/ZohoApiProjectInactive/ZohoAPIProjectsInActive/obj/",
+        "projectPath": "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/ZohoAPIProjectsInActive.csproj",
+        "packagesPath": "/Users/parija/.nuget/packages/",
+        "outputPath": "/Users/parija/Desktop/NEW PROJECT/ZohoProjectInActive/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dhiraj/.nuget/NuGet/NuGet.Config"
+          "/Users/parija/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
