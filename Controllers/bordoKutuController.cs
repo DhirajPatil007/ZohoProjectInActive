@@ -20,12 +20,16 @@ namespace FretAPI.Controllers
     public class BordokutuContoller : Controller
     {
 
-    private static readonly string[] Details = new[]
-    {
+        private static readonly string[] Details = new[]
+        {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
-
     
+      private static readonly string[] Empolyee = new[]
+    {
+        "Aamod",  "Dhiraj", "Snehal", "Parija", "Harshala"
+    };
+
 
     }
 }
